@@ -1,0 +1,149 @@
+body {
+  min-width: 1219px;
+  font-size: 32px;
+  line-height: 37px;
+  font-family: "Roboto", sans-serif;
+  color: #000;
+  text-align: center;
+  margin: 0;
+}
+h2 {
+  font-size: 64px;
+  font-weight: 500;
+}
+.container {
+  width: 1219px;
+  padding: 0 55px;
+  margin: 0 auto;
+}
+.header {
+  position: sticky;
+  top: 0;
+  background-color: #007765;
+  width: 100%;
+  padding: 27px 0;
+}
+.header .container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.logo {
+  float: left;
+}
+.nav {
+  float: right;
+  text-align: center;
+}
+.botton {
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+}
+.center-botton {
+  padding: 0 8px;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+  margin: 0 8px;
+}
+.heade {
+  background-image: url(img/bg1.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 160px 0;
+}
+.heade-name {
+  font-size: 72px;
+  color: #fff;
+}
+.problem {
+  background: #eeeeee;
+  padding-bottom: 92px;
+  padding-top: 48px;
+}
+.problem-name {
+  color: #007765;
+  margin-bottom: 16px;
+}
+.problem-text {
+  font-weight: 400;
+  text-align: left;
+}
+.problem-text strong {
+  font-weight: 700;
+}
+.network {
+  background-image: url(img/bg2.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center center;
+  padding: 128px 0;
+}
+.network-text {
+  color: #fff;
+  font-size: 48px;
+  line-height: 56px;
+  font-style: italic;
+}
+.pied-piper-coin {
+  background-color: #fff;
+  padding-top: 48px;
+}
+.name-coin {
+  color: #007765;
+  margin-bottom: 16px;
+}
+.text {
+  text-align: left;
+  margin-bottom: 92px;
+}
+.pcc {
+  margin-bottom: 40px;
+}
+.pcc:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.pcc .icon {
+  float: left;
+  margin-right: 48px;
+}
+.team-block {
+  padding-top: 48px;
+}
+.team {
+  color: #007765;
+  margin-bottom: 32px;
+}
+.line-1 {
+  margin: 0;
+  margin-bottom: 30px;
+}
+.line-2 {
+  margin: 0;
+  margin-bottom: 94px;
+}
+.prog {
+  display: inline-block;
+}
+.center {
+  margin: 0 30px;
+}
+.photo {
+  margin: 24px 71px 12px;
+}
+.name {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+  color: #007765;
+}
+.dol {
+  font-size: 18px;
+  font-style: italic;
+  color: #000;
+  margin: 0;
+  font-weight: 400;
+}
